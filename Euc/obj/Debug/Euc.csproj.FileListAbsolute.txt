@@ -1,0 +1,10 @@
+C:\Cs Projects\Euc\Euc\bin\Debug\Euc.exe.config
+C:\Cs Projects\Euc\Euc\bin\Debug\Euc.exe
+C:\Cs Projects\Euc\Euc\bin\Debug\Euc.pdb
+C:\Cs Projects\Euc\Euc\obj\Debug\Euc.csprojAssemblyReference.cache
+C:\Cs Projects\Euc\Euc\obj\Debug\Euc.MainForm.resources
+C:\Cs Projects\Euc\Euc\obj\Debug\Euc.Properties.Resources.resources
+C:\Cs Projects\Euc\Euc\obj\Debug\Euc.csproj.GenerateResource.cache
+C:\Cs Projects\Euc\Euc\obj\Debug\Euc.csproj.CoreCompileInputs.cache
+C:\Cs Projects\Euc\Euc\obj\Debug\Euc.exe
+C:\Cs Projects\Euc\Euc\obj\Debug\Euc.pdb
